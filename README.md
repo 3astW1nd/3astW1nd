@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilawar-shah-1aa833354/">
+  <a href="https://www.linkedin.com/in/dilawar-rasool-shah/">
     <img src="https://img.shields.io/badge/LinkedIn-Dilawar%20Shah-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dilawarshah0230@gmail.com">
