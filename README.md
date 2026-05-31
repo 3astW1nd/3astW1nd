@@ -25,7 +25,6 @@ I'm a final-year Computer Science student at FAST NUCES with a published paper a
 - 🏭 **MLOps:** Kubernetes, Terraform, Docker, GitHub Actions, Prometheus, Grafana, Apache Airflow
 - ⚡ **Low-level:** CUDA C++ neural network library — 1.53x training speedup, validated on RTX 4090
 - 🤖 **GenAI:** Stable Diffusion + ControlNet + LoRA pipelines; RAG over 1,000+ research papers; Whisper + Gemini meeting assistant
-- 🏆 **Dean's List** | 3.17 GPA | Expected Graduation: June 2026
 
 ---
 
